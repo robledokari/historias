@@ -1,7 +1,9 @@
 title: Historias con datos
 email: robledokari@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Historias con datos it's a blog to show storys with data in JavaScript
+  Historias con datos it's a blog to show stories with data.
+  My coding journey with 100 days of Code
+  Code Newbie, Women in Tech and Women Who Code
 baseurl: "/historias" # the subpath of your site, e.g. /blog
 url: "https://karinarobledo.me" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
