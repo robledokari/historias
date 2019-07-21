@@ -1,0 +1,31 @@
+---
+layout: post
+title: Day 1 
+date: 2019-07-21 00:00:00 +0300
+description: Day 1 . # Add post description (optional)
+img:  IG1.PNG # Add image post (optional)
+tags: [100daysOfCode] # add tag
+---
+
+Hi! I'm Kari from Mexico City. I want to do the challenge of 100 days of code. I'd been programming in Java, but I want to learn Javascript. Why? I think that with Javascript you could do more things like apps, websites and even programs that are on a computer and easy to deploy.
+
+My goals are:
+- Build a web/app that generates passive income.
+- Learn React and Vue
+- Do a graphic with D3.js
+- Do a Twitter Chatbot
+- Give a tech talk
+- Do at least one algorithm daily.
+
+I'm working at the moment, so I will do a post weekly about what I learned. 
+
+- 112 days 
+- 16 weeks 
+- 4 months
+
+So thank you for joining me in my coding journey. This is day 1.
+
+*See you next week!*
+
+
+
