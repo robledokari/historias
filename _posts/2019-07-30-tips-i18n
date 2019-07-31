@@ -1,3 +1,12 @@
+---
+layout: post
+title: Tips of i18n
+date: 2019-07-30 00:00:00 +0300
+description: Tips of i18n for Spanish
+img: # Add image post (optional)
+tags: [100daysOfCode] # add tag
+---
+
 # Internalization for Spanish 
 
 Internalization is a big word, so I will use i18n for this article. If you are reading this, you understand English. But a lot of people in the world doesn't speak this language. I'm writing this to motivate you to translate your amazing apps, so more people could use them. I'm a native speaker in Spanish, so I will tell you about my experience.
