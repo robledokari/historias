@@ -1,0 +1,49 @@
+# Internalization for Spanish 
+
+Internalization is a big word, so I will use i18n for this article. If you are reading this, you understand English. But a lot of people in the world doesn't speak this language. I'm writing this to motivate you to translate your amazing apps, so more people could use them. I'm a native speaker in Spanish, so I will tell you about my experience.
+
+If you want to write your app for another language, I recommend you to save the Strings in a file, so you can change this easily and access them later. I will share with you a few tips.
+
+## Dates
+
+If you are from the United States of America (USA), you use the format Month - Day - Year. To be honest, this could be confusing for other countries, because we use Day - Month - Year. Just consider telling what format are you using.
+
+Example of date birth
+
+
+```PHP
+Fecha nacimiento: 
+<input type="date" name="cumpleanios" step="1" min="2013-01-01" max="2013-12-31" value="2013-01-01">
+```
+
+## Names
+
+In the USA, you are asked a middle name and surname. But in other countries when we talk Spanish, we can have two names, but not always and it's not the same than a middle name. My name is only Karina. Also, we use two surnames, the first from our father and the second from our mother. We need two surnames. One is called "Apellido Paterno" and the other "Apellido Materno". 
+
+Example of form for name. 
+
+```PHP
+<p>Nombre: <input type="text" name="nombre" placeholder="Nombre"></p>
+
+<p>Apellido paterno: <input type="text" name="apellidopaterno" size="40" placeholder="Apellido paterno"></p>
+
+<p>Apellido materno: <input type="text" name="apellidomaterno" size="40" placeholder="Apellido materno"></p>
+```
+
+
+## URL
+
+We have accents and ñ. Unfortunately, you can't use them in URLs. Example, year in Spanish is "Año", but because you can't use the ñ, you could replace for "Ano". Don't. This translates to asshole. You will have to use another word for your URL. If you need to use some word with ñ, replace it with ni. Using my example, Año to Anios instead of Anos. 
+
+```PHP
+GOOD
+www.karinarobledo.me/anios 
+BAD 
+www.karinarobledo.me/anos
+```
+
+## Words meaning different things in different countries
+
+There's a lot of countries that speak Spanish, but even we speak the same language, we have differences in our language. One word could be a bad word in one country and a common word in other. One example is "Tortillera", in Spain means lesbian, while in Mexico means a person who makes tortillas. Just be careful.
+
+Well, this it's the end. I hope it helps you to understand the differences in another language. In the past, I had to make changes in an enormous file, but now there's more support for configuration in other languages. As a developer, I'm thankful.
