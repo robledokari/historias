@@ -1,0 +1,23 @@
+---
+layout: post
+title: Round 1 of 100DaysOfCode
+date: 2019-09-16 00:00:00 +0300
+description: R1 of 100daysofcode . # Add post description (optional)
+img:  sistema.jpg # Add image post (optional)
+tags: [100daysOfCode] # add tag
+---
+
+I finished Round 1 of #100DaysOfCode.
+I'm Karina and I'm a leukemia survivor. I knew how to code because I studied Computer Science in Mexico City. My native language is Spanish. I spent 2018 in hospital. I was diagnosed in February and I left the hospital after my transplant in December. I hadn't code anything for a year. 
+
+I decided to start #100DaysOfCode to practice and since I can not leave my house, the challenge made me feel better and helped me with depression. In July I started to work from home like Backend Developer in my country. It was so hard, but I'm doing fine, but this means that I have less time to code for fun.
+
+In August, I had leukemia in the skin again, so I'm getting maintenance chemotherapy and full-body radiation. I don't know if there are cancer patients that want to learn to code. But if you have health problems, you are not alone. Maybe it will take time, but you can code.
+
+I will list the projects that I did. 
+
+
+
+Before you finish reading. For me, the more important thing is to be happy and enjoy life. I'm 300 days post-transplant and I defeated cancer. Well, this is the beginning of my life as a developer. I hope to create more projects that help people and I want to be a successful developer in my company.
+
+Believe in you, you can do it.
